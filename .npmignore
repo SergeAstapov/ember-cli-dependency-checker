@@ -23,6 +23,7 @@ config/
 tests/
 vendor/
 
+.eslintignore
 .eslintrc.js
 .bowerrc
 .editorconfig
