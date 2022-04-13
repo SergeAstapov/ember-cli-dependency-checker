@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = async function () {
+module.exports = function () {
   return {
     command: 'yarn test',
     useYarn: true,
